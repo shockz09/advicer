@@ -4,7 +4,7 @@
 https://advicer.vercel.app/
 
 ##
-A Advicer App which gives good and funny advices which are taken from https://api.adviceslip.com/ 
+<b>A Advicer App which gives good and funny advices which are taken from https://api.adviceslip.com/ <b>
 
 ##
 
